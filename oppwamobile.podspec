@@ -1,4 +1,4 @@
-oppwamobile_version = '4.8.0'
+oppwamobile_version = '4.9.1'
 
 Pod::Spec.new do |s|
   s.name                   = 'oppwamobile'
